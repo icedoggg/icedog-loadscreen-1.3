@@ -22,3 +22,5 @@ Drag the folder into your server resources
 Then just restart your server!
 
 Still adding more features + improvements over time. (im super busy thought id just upload it now before i do the other work yall wanted later on!) 🙏
+
+https://streamable.com/2ahufh
